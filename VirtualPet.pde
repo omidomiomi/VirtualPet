@@ -36,4 +36,14 @@ fill(250,250,250);
 ellipse(200,220,150,80);
 fill(0,0,0);
 ellipse(200,200,50,30);
+stroke(0,0,0);
+strokeWeight(5);
+line(200,200,200,240);
+fill(250,250,250);
+arc(225,240,50,30,0,PI);
+arc(175,240,50,30,0,PI);
+textAlign(CENTER);
+textSize(30);
+fill(173, 3, 252);
+text("Llama in STEM", 200,50);
 }
